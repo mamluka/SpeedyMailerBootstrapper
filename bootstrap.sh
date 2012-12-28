@@ -7,7 +7,7 @@ fi
 
 cd /c/SpeedyMailer/Source/SpeedyMailer
 
-git pull
+git pull --rebase
 
 gem install rake
 gem install albacore
